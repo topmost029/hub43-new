@@ -4,7 +4,7 @@
   "outputDirectory": "dist",
   "functions": {
     "api/send-email.js": {
-      "runtime": "nodejs20.x"
+      "runtime": "nodejs@20"
     }
   },
   "headers": [
